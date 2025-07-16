@@ -1,0 +1,15 @@
+# === Build directories ===
+out/
+bin/
+target/
+build/
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+
+# === VS Code (optional) ===
+.vscode/
+
+# === macOS ===
+.DS_Store
